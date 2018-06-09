@@ -28,7 +28,6 @@ public class Exercises {
             
 	}
 	
-	//Devuelve el primer entero contenido en el archivo con nombre nombre_archivo
 	static int readInt(String filename)
 	{
             return -1;
