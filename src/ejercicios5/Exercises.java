@@ -5,6 +5,13 @@
  */
 package ejercicios5;
 
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.PrintWriter;
+import java.util.Scanner;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
 /**
  *
  * @author turupawn
@@ -13,12 +20,12 @@ public class Exercises {
 
 	static void writeString(String filename, String content)
 	{
-            return;
+            
 	}
 	
 	static void writeInt(String filename, int content)
 	{
-            return;
+            
 	}
 	
 	//Devuelve el primer entero contenido en el archivo con nombre nombre_archivo
